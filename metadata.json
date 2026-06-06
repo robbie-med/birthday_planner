@@ -1,0 +1,6 @@
+{
+  "name": "Birthday Gift Planner",
+  "description": "A terminal/TUI-styled personal birthday CRM and bidirectional gift ledger with automated reminder helper setups.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
